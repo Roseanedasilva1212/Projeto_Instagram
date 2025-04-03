@@ -22,7 +22,7 @@ Certifique-se de ter instalado:
 - Um navegador moderno (como Google Chrome, Firefox ou Edge).
 - Um editor de código (como Visual Studio Code).
 
-## Link do projeto
+## Foto do Projeto 
 
-https://roseanedasilva1212.github.io/Projeto_Instagram/
+
 
