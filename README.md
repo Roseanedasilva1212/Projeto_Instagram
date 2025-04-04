@@ -24,5 +24,7 @@ Certifique-se de ter instalado:
 
 ## Foto do Projeto 
 
+![Captura de tela 2025-04-04 031919](https://github.com/user-attachments/assets/bc16b12f-8cf2-40f2-8044-564eb277660d)
+
 
 
